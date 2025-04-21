@@ -74,14 +74,14 @@ cd SnapScore-Bot
 4. To stop, press Esc or Stop.
 ```
 
---
+---
 
 ## 📄 License
 ```bash
 © ItzJustLars. All rights reserved.
 ```
 
---
+---
 
 ## 👤 Author
 ```bash

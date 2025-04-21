@@ -1,4 +1,4 @@
-# SnapScore Bot 🚀
+# SnapScore Bot 🚀👻
 
 [![License](https://img.shields.io/badge/License-ItzJustLars-blue.svg)](#license)  [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](#requirements)
 

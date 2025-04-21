@@ -81,10 +81,4 @@ cd SnapScore-Bot
 © ItzJustLars. All rights reserved.
 ```
 
----
 
-## 👤 Author
-```bash
-ItzJustLars
-Maintained by [ItsLars03](https://github.com/ItsLars03)
-```
